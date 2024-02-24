@@ -153,7 +153,7 @@ main h2 {
     border-radius: 8px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     overflow: hidden;
-    margin: 0px 15px 0px 15px;
+    margin: 10px 15px 10px 15px;
 }
 
 .card:hover {
@@ -162,7 +162,7 @@ main h2 {
     border-radius: 8px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     overflow: hidden;
-    margin: 0px 15px 0px 15px;
+    margin: 10px 15px 10px 15px;
     cursor: pointer;
     background-color: #bbb5b5cd;
 }
